@@ -11,9 +11,11 @@ members = [
     "./lib/compact",
     "./lib/compact_macros",
     "./lib/descartes",
+    "./lib/kandinsky",
     "./lib/kay",
     "./lib/kay_macros",
-    "./lib/monet"
+    "./lib/monet",
+    "./lib/sandbox"
 ]
 
 [dependencies]
